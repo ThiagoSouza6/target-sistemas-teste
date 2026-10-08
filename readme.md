@@ -4,7 +4,7 @@
 
 Pré-requisito: Node.js instalado e digite `npm install` no terminal.
 
-## 1 Programa para cálculo de comissão
+## 1. Programa para cálculo de comissão
 
 [Veja o código do desafio 1](./desafios/1/index.ts)
 
@@ -28,7 +28,7 @@ npx tsx desafios/1/index.ts
 
 O programa lê `desafios/1/vendas.json` e imprime o total vendido e a comissão de cada vendedor.
 
-## 2 Programa para lançar movimentações de estoque
+## 2. Programa para lançar movimentações de estoque
 
 [Veja o código do desafio 2](./desafios/2/index.ts)
 
@@ -53,7 +53,7 @@ npx tsx desafios/2/index.ts
 
 Informe o código do produto, a descrição da movimentação e a quantidade. Quantidade positiva dá entrada; negativa dá saída. Deixe o código em branco para sair.
 
-## 3 Programa para calcular juros a partir da data e do valor
+## 3. Programa para calcular juros a partir da data e do valor
 
 [Veja o código do desafio 3](./desafios/3/index.ts)
 
